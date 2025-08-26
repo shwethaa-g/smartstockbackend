@@ -1,0 +1,4 @@
+Product,BatchID,Quantity,ExpiryDate
+Milk,101,20,2025-08-25
+Bread,102,15,2025-08-21
+Eggs,103,50,2025-08-28
